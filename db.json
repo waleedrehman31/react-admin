@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "Posts": [
     {
       "id": "1",
       "title": "Post one",
@@ -25,11 +25,16 @@
       "id": "PSd1usN"
     }
   ],
-  "users": [
+  "Users": [
     {
       "id": "1",
       "name": "Waleed ur Rehman",
       "email": "waleed@example.com"
+    },
+    {
+      "name": "Waleed rehman ",
+      "email": "waleedrehman31@gmaill.com",
+      "id": "wUlNiuy"
     }
   ]
 }
